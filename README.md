@@ -1,4 +1,7 @@
-
+OBSERVED TREND 1 - Scores by School Type shows that Charter schools are better performers then District school. 
+                   Top 5 performing schools are all Charter Schools and bottom 5 Schools are all District Schools.
+OBSERVED TREND 2 - Scores by School Size does not make any difference. There is not much difference in reading scores or Math scores. 
+OBSERVED TREND 3 - Higher school budgets also do not influence reading or math scores.
 
 ```python
 # Dependencies
